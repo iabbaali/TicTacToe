@@ -1,5 +1,6 @@
 # TicTacToe
-*A simple Tic Tac Toe game with time travel.*
+
+A simple Tic Tac Toe game with time travel
 ---
 ## Functionaities
 * [x] User can make a move (alternating between X and O)

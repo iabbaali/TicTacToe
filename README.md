@@ -1,7 +1,7 @@
 # TicTacToe
 
-A simple Tic Tac Toe game with time travel
----
+*A simple Tic Tac Toe game with time travel.*
+
 ## Functionaities
 * [x] User can make a move (alternating between X and O)
 * [x] User can use time travel function to move back to a certain move
